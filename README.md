@@ -14,14 +14,14 @@
 ### 🚀 About Me
 
 - 🔥 Full Stack Engineer, Startup Founder & Technical Leader delivering **high-performance products** across Web, SaaS, Blockchain, AI, API Systems, and Fintech.
-- 🏢 Founder of [Cordillera](https://www.cordillera.dev/) — custom software, blockchain, and AI development agency.
+- 🏢 Founder of [Cordillera](https://www.cordillera.dev/) — full stack software and technology solutions for startups, fintech, blockchain, and enterprise systems.
 - 🧠 Deep experience leading cross-functional dev teams, system architecture design, smart contract platforms, scaling SaaS startups, and high-volume data pipelines.
 - 💡 Product-driven mindset with technical execution: design, build, deploy, scale, and optimize.
 - 🎯 My focus: Execute complex builds across multiple stacks — fast, efficient, scalable, and production-ready.
 
 ---
 
-### 🌐 Company
+### 🌐 My Company
 
 <p align="center">
   <a href="https://www.cordillera.dev/" target="_blank">
@@ -102,6 +102,12 @@
   </a>
   <a href="https://github.com/milo-sedarat" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-milo--sedarat-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/milosedarat" target="_blank">
+    <img alt="Upwork" src="https://img.shields.io/badge/Upwork-Hire%20Me-6fda44?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
+  <a href="mailto:milo@cordillera.dev">
+    <img alt="Email" src="https://img.shields.io/badge/Email-milo@cordillera.dev-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
